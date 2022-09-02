@@ -16,7 +16,7 @@ This React capstone project (remember what are they?)is about building a mobile 
 
 ## Live Demo 
 
-[react-capstone](https://6311fafc0d6d5611dfac6b9d--zippy-puppy-3b4d6c.netlify.app/)
+[react-capstone](https://63127820113fbf0009ef3783--zippy-puppy-3b4d6c.netlify.app/)
 
 ## Demo Video
 
