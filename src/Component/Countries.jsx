@@ -56,7 +56,7 @@ function Countries() {
           Search
         </button>
         <button className="btn btn-light" onClick={showAll} type="button">
-          See All Countries
+         All Countries
         </button>
       </div>
       <div className="all-countries">{renderCountry}</div>

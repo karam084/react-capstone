@@ -6,26 +6,26 @@
   justify-content: space-between;
   font-family: 'Noto Sans', sans-serif;
   margin-bottom: 10px;
-  background-color: rgba(130, 7, 79, 0.301);
+  background-color: rgba(247, 191, 237, 0.301);
   padding: 10px;
 }
 
 .nav-right {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .all-countries {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  background-color: rgb(230, 31, 147);
+  background-color: rgb(241, 170, 212);
   padding-left: 7%;
 }
 
 .image-links {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .more-details {
@@ -37,7 +37,7 @@
   flex-direction: column;
   color: white;
   text-decoration: none;
-  background-color: rgb(230, 31, 147);
+  background-color: rgb(250, 165, 214);
   width: 28rem;
   height: 18rem;
   margin-left: 20px;
@@ -52,7 +52,8 @@
 #search {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: rgb(230, 31, 147);
+  background-color: rgb(241, 163, 209);
+  margin-top: 0;
 }
 
 .d-block {
@@ -78,7 +79,7 @@
 }
 
 .details-container {
-  background-color: rgb(230, 31, 147);
+  background-color: rgb(241, 163, 209);
   height: 100%;
   color: white;
   font-size: 25px;
@@ -131,7 +132,7 @@
     padding: 0;
     margin: 0;
     grid-template-columns: repeat(2, minmax(50%, 1fr));
-    background-color: rgb(230, 31, 147);
+    background-color: rgb(248, 174, 217);
   }
 
   .imagedetails {
@@ -172,9 +173,4 @@
     width: 30%;
     margin-left: 10%;
   }
-}
-
-.logo {
-  width: 100px;
-  height: 100px;
 }

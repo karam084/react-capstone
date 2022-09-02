@@ -20,7 +20,7 @@ function Details() {
         <Link to="/">
           <FaArrowLeft />
         </Link>
-        <p>COUNTRY DATA</p>
+        <p>DATA</p>
         <div className="nav-right">
           <p>
             <FaMicrophoneAlt />
