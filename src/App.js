@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Countries from './Component/Countries';
-import Details from './Component/Details';
+import Countries from './Component/Countries.jsx';
+import Details from './Component/Details.jsx';
 
 function App() {
   return (
