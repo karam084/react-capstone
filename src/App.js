@@ -11,7 +11,6 @@ function App() {
           <Route path="/details/:name" element={<Details />} />
         </Routes>
       </Router>
-
     </div>
   );
 }
