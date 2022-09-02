@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { Link } from 'react-router-dom';
-import { getCountriesApi, getSearchedCountries } from '../redux/countries';
+import { getCountriesApi, getSearchedCountries } from '../Redux/Countries';
 import Continent from './Continents';
 
 function Countries() {

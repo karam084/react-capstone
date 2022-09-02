@@ -2,12 +2,12 @@ import React from 'react';
 import 'bootstrap/dist/js/bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from 'react-bootstrap';
-import africa from '../assets/africa.png';
-import europe from '../assets/europe.png';
-import asia from '../assets/asia.png';
-import australia from '../assets/australia.png';
-import north from '../assets/north.png';
-import south from '../assets/south.png';
+import africa from '../Images/africa.png';
+import europe from '../Images/europe.png';
+import asia from '../Images/asia.png';
+import australia from '../Images/australia.png';
+import north from '../Images/north.png';
+import south from '../Images/south.png';
 
 const Continent = () => (
   <div style={{ overflow: 'none' }}>

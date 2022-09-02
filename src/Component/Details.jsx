@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
 import { FaArrowLeft, FaMicrophoneAlt } from 'react-icons/fa';
 import { AiFillSetting } from 'react-icons/ai';
-import { getCountriesApi } from '../redux/countries';
+import { getCountriesApi } from '../Redux/Countries';
 
 function Details() {
   const countries = useSelector((state) => state.countries);
