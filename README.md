@@ -20,7 +20,7 @@ This React capstone project (remember what are they?)is about building a mobile 
 
 ## Demo Video
 
-[Demo Video]()
+[Demo Video](https://www.loom.com/share/fe7294d669664b95a6a1e96f6129e0d1)
 
 ## Getting Started
 - Clone repository in your local machine
